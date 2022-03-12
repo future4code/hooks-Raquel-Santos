@@ -1,63 +1,40 @@
-//QUESTOES INTERPRETATIVAS// 
+
+// EXERCICIO 1 //
+
+//const somar = 3 + 4
+//const multiplicar = (3 +5)
+//const resultadomultilicar = multiplicar /2
+//const subtrair = (5 -4)* -1
+//const restou = 234 % 5
+
+//console.log(somar)
+//console.log(multiplicar)
+//console.log(" resultado da subtração é:* , subtrai
+//console.log(restou)
+
+const comparar = 20 === 20
+const comparar2 = 20 === "20"
+const comparardiferenca = 20 !== 20
+const compararDeNovo2 =  20 >= 10
+const compararMaisUm = 10 < 5
+const compararOutro = 10 <= 10
+
+const.log(compararDeNovo)
 
 
-/* 1
-o que será impresso no console  é 10 5 */
+// para declarar uma nova variave não precisa usar o let/const//
 
+// EXERCICIO 2 //
 
+let primeiroValor1 = 10
+const segundoValor2 = 15 
+const compararDiferena3 = 10 === 15
+const compararDeNovo1 = 10 !== 15
+const primeiroValor = 10 > 15
+const compararMaisUaVez = 10 < 15
 
-/* 2
- o que sera impresso no console será 10 10 10 */
+const resultado
 
-
-/* 3
-horasTrabalhadasPorDia
-valorRecebidoPorDia */
-
-
-// ESCRITA DE CODIGO //
-
-let nome 
-let idade 
-
-
-console.log(typeof nome, typeof idade)
-// console imprimiu string number //
-
-nome = prompt ("Qual é o seu nome?")
-idade = Number(prompt("Qual é sua idade?"))
-
-console.log(typeof nomeCompleto, typeof idade)
-//console String number //
-
-console.log("Olá", nome, "você tem", idade, "anos")
-
-noem = prompt ("O que você está fazendo")
-
-const pergunta1 = "Você gosta de preto?"
-const pergunta2 = "Você vestiu preto hoje?"
-const pergunta3 =  "Você vai vestir preto antes de sai?"
-
-const respostaPergunta1 = "Sim"
-const respostaPergunta2 = "Não"
-const respostaPergunta3 = "sim"
-
-console.log(pergunta1, respostaPergunta1)
-console.log(pergunta2, respostaPergunta2)
-console.log(pergunta3, respostaPergunta3)
-
-let a = 10
-let b = 25
-let c = 
-
-c = a
-a = b
-b = c
-
-// Foi criado uma variavel vazia para repassar o valor de a //
-
-console.log("O novo valor de a é", a) 
-console.log("O novo valor de b é",
 
 
 
