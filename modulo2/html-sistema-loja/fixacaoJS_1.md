@@ -1,7 +1,8 @@
 ```function calculaSalario(qtdeCarrosVendidos, valorTotalVendas) {
-    let salario = 2000
-    let comissao = ((qtdeCarrosVendidos 3 ) + (0.05 valorTotalVendas)) + salario
+    const salario = 2000
+    const quantidade = 100 * qtdeCarrosVendidos
+    const valorTotal1 = valorTotalVendas * 0.05
+    const total2 = salario + quantidade + valorTotal1
     
-    return comissao
-
+    return total 
     } ´´´
