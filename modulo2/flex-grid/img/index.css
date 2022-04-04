@@ -1,0 +1,50 @@
+
+* { padding: 0%;
+    margin: 0px;
+
+}
+
+h2 {
+    background-color: mediumvioletred;
+    display: flex ;
+    margin: 0px;
+    font-size: 30px;
+    
+    }
+    
+    img {
+    
+            width:15px;
+            margin-right:5px;
+        
+        
+    }
+    
+
+      #centralizar{
+        position: absolute; 
+        top: 2%;
+        left: 97%;
+        transform: translate(-50%, -27%);
+        
+    }
+
+    footer {
+        display: flex;
+        justify-content: center;
+        padding: 13px 0;
+        position: relative;
+        top: 0;
+        background-color: violet;
+        color: black;
+        font-weight:bolder;
+        
+
+    }
+
+
+
+
+
+  
+

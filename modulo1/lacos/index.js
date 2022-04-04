@@ -20,7 +20,7 @@
 
     // 2. a) Escreva um programa que imprime cada um dos valores do array original.
 
-    const arrayOriginal=[10, 18,20, 7]
+   /* const arrayOriginal=[10, 18,20, 7]
 
       function imprimirLista(array) {
         for (let item of array) 
@@ -51,5 +51,16 @@ for(let item of arrayOriginal){
 
 }
 arrayPares()
-console.log(arrayOriginal)
+console.log(arrayOriginal) */
+
+let numeroUsuario;
+let soma;
+
+while (numeroUsuario !==) {
+    numeroUsuario = Number(prompt ("Insira um número"))
+    soma+= numeroUsuario
+
+}
+
+console.log(soma)
 
